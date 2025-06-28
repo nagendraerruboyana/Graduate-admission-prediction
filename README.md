@@ -1,4 +1,4 @@
-```markdown
+
 # 🎓 Graduate Admission Predictor – Jamboree Business Case
 
 This project builds a machine learning model to predict the probability of a student's admission to graduate programs, based on profile features like GRE, TOEFL, CGPA, SOP strength, and research experience.
@@ -17,9 +17,7 @@ It is inspired by a real-world educational use case by **Jamboree**, a leading t
 ---
 
 ## 📂 Folder Structure
-
-```
-
+````
 graduate-admission-prediction/
 │
 ├── artifacts/
