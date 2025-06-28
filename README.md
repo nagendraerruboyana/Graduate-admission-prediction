@@ -21,12 +21,12 @@ It is inspired by a real-world educational use case by **Jamboree**, a leading t
 graduate-admission-prediction/
 │
 ├── artifacts/
-│   ├── Jamboree\_Admission.csv             # Dataset
+│   ├── Jamboree_Admission.csv             # Dataset
 │   ├── model.pkl              # Trained linear regression model
 │   ├── scaler.pkl             # StandardScaler for feature scaling
-│   └── Jamboree\_Business\_Case.ipynb        # Jupyter notebook with full analysis
+│   └── Jamboree_Business_Case.ipynb        # Jupyter notebook with full analysis
 │
-├── admission\_app.py           # Streamlit app
+├── admission_app.py           # Streamlit app
 ├── requirements.txt           # Dependencies
 ├── .gitignore                 # To exclude venv, cache files, etc.
 └── README.md                  # This file
