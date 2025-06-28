@@ -1,3 +1,4 @@
+```markdown
 # 🎓 Graduate Admission Predictor – Jamboree Business Case
 
 This project builds a machine learning model to predict the probability of a student's admission to graduate programs, based on profile features like GRE, TOEFL, CGPA, SOP strength, and research experience.
@@ -16,20 +17,21 @@ It is inspired by a real-world educational use case by **Jamboree**, a leading t
 ---
 
 ## 📂 Folder Structure
-````
+
+```
+
 graduate-admission-prediction/
 │
 ├── artifacts/
-│   ├── Jamboree_Admission.csv             # Dataset
-│   ├── model.pkl                          # Trained linear regression model
-│   ├── scaler.pkl                         # StandardScaler for feature scaling
-│   └── Jamboree_Business_Case.ipynb      # Jupyter notebook with full analysis
+│   ├── Jamboree\_Admission.csv             # Dataset
+│   ├── model.pkl              # Trained linear regression model
+│   ├── scaler.pkl             # StandardScaler for feature scaling
+│   └── Jamboree\_Business\_Case.ipynb        # Jupyter notebook with full analysis
 │
-├── admission_app.py                       # Streamlit app
-├── requirements.txt                       # Dependencies
-├── .gitignore                            # To exclude venv, cache files, etc.
-└── README.md                             # This file
-
+├── admission\_app.py           # Streamlit app
+├── requirements.txt           # Dependencies
+├── .gitignore                 # To exclude venv, cache files, etc.
+└── README.md                  # This file
 
 ````
 
@@ -68,13 +70,13 @@ Target: `Chance_of_Admit` (0 to 1)
 
 ## 🎯 Streamlit Web App
 
-🔗 **Live Demo**: [Click to Launch](https://your-streamlit-url.streamlit.app)
+🔗 **Live Demo**: [Click to Launch](https://nagendraerruboyana-admission.streamlit.app/)
 
 ### 📥 How to Run Locally
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/graduate-admission-prediction.git
+git clone https://github.com/nagendraerruboyana/graduate-admission-prediction.git
 cd graduate-admission-prediction
 ````
 
@@ -115,13 +117,4 @@ This project simulates a real-world data science workflow for a business case �
 ## 📬 Contact
 
 📧 Made by \[Nagendra Erruboyana]
-🔗 [LinkedIn](https://linkedin.com/in/yourhandle) | [GitHub](https://github.com/yourusername)
-
-```
-
----
-
-Replace the following placeholders:
-- `https://your-streamlit-url.streamlit.app`
-- `https://github.com/yourusername/graduate-admission-prediction`
-- `[Your Name]`, `[LinkedIn]`, `[GitHub]`
+🔗 [LinkedIn](https://linkedin.com/in/nagendraerruboyana) | [GitHub](https://github.com/nagendraerruboyana)
