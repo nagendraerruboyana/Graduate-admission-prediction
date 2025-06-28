@@ -114,5 +114,5 @@ This project simulates a real-world data science workflow for a business case �
 
 ## 📬 Contact
 
-📧 Made by \[Nagendra Erruboyana]
+📧 Made by [Nagendra Erruboyana]
 🔗 [LinkedIn](https://linkedin.com/in/nagendraerruboyana) | [GitHub](https://github.com/nagendraerruboyana)
