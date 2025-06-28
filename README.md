@@ -16,19 +16,20 @@ It is inspired by a real-world educational use case by **Jamboree**, a leading t
 ---
 
 ## 📂 Folder Structure
-
+````
 graduate-admission-prediction/
 │
 ├── artifacts/
-│   ├── jam\_ad.csv             # Dataset
-│   ├── model.pkl              # Trained linear regression model
-│   ├── scaler.pkl             # StandardScaler for feature scaling
-│   └── kam\_B\_cas.ipynb        # Jupyter notebook with full analysis
+│   ├── Jamboree_Admission.csv             # Dataset
+│   ├── model.pkl                          # Trained linear regression model
+│   ├── scaler.pkl                         # StandardScaler for feature scaling
+│   └── Jamboree_Business_Case.ipynb      # Jupyter notebook with full analysis
 │
-├── admission\_app.py           # Streamlit app
-├── requirements.txt           # Dependencies
-├── .gitignore                 # To exclude venv, cache files, etc.
-└── README.md                  # This file
+├── admission_app.py                       # Streamlit app
+├── requirements.txt                       # Dependencies
+├── .gitignore                            # To exclude venv, cache files, etc.
+└── README.md                             # This file
+
 
 ````
 
