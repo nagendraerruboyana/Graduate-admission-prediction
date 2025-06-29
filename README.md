@@ -68,7 +68,7 @@ Target: `Chance_of_Admit` (0 to 1)
 
 ## 🎯 Streamlit Web App
 
-🔗 **Live Demo**: [Click to Launch](https://nagendraerruboyana-admission.streamlit.app/)
+🔗 **Live Demo**: [Click to Launch](https://admission-pred.streamlit.app/)
 
 ### 📥 How to Run Locally
 
