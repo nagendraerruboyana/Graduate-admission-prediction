@@ -1,11 +1,11 @@
 import streamlit as st
 import joblib
 import numpy as np
+import os
 
 # Load model and scaler
-model = joblib.load(r"artifacts\model.pkl")
-scaler = joblib.load(r"artifacts\scaler.pkl")
-
+model = joblib.load(os.path.join("artifacts", "model.pkl"))
+scaler = joblib.load(os.path.join("artifacts", "scaler.pkl"))
 #Title
 st.write(" ## Jamboree Graduate Admission Prediction ")
 st.markdown("""
