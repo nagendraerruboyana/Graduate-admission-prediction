@@ -3,8 +3,8 @@ import joblib
 import numpy as np
 
 # Load model and scaler
-model = joblib.load("artifacts\model.pkl")
-scaler = joblib.load("artifacts\scaler.pkl")
+model = joblib.load("artifacts/model.pkl")
+scaler = joblib.load("artifacts/scaler.pkl")
 
 #Title
 st.write(" ## Jamboree Graduate Admission Prediction ")
